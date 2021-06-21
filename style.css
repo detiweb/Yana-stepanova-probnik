@@ -1,0 +1,76 @@
+.foto{
+	border:5px solid #FF8240;
+	border-radius:7px;
+}
+.forneed{
+	margin: 
+}
+.eva {
+	text-align:center;
+	background-color:white;
+
+}
+
+.text{
+	font-size:20px;
+}
+
+.mg{
+margin:0px 70px;	
+}
+.forneed{
+	margin-: 
+}
+.video{
+	margin-top:100px;
+}
+.kartinka{
+	padding:10px;
+	color:aqua;
+	background-color:blue;
+}
+body{
+	background: url(foto.jpg);
+font-family: 'Montserrat', sans-serif;
+}
+ p{
+ 	background:#E165B9;
+ 	color:#8243D6;
+ 	display:inline-block ;
+ }
+
+ a{
+ 	background-color:#FFBF00;
+ 	color:#FF9200;
+ 	text-decoration:none;
+ 	text-align:center;
+ }
+  a:hover{
+ 	background-color:#FF9200;
+ 	color:#FFBF00;
+ }
+.rassilka{
+	background-color:pink;
+}
+.kartochka{
+width:30%;
+background-color:#FFA640;
+border:6px solid #FF8900;
+border-radius:5px;
+}
+.need{
+	 padding:20px;
+}
+
+.card{
+	padding:20px;
+	width:500px;
+	display:inline-block;
+	background-color:#91B52D;
+	border:8px solid #C7F83E;
+border-radius:10px;
+} 
+.spisok{
+	background-color:#60B9CE;
+	display:inline-block;
+}
